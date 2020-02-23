@@ -18,6 +18,7 @@
 	<tr>
 		<td align=center>
 		<table border=0 width=100% align=center>
+	</tr>
 	<tr>
 		<td width=10%>ΌΊΈν</td>
 		<td width=90%><input type=text name=name size=15 maxlength=8></td>
@@ -53,5 +54,6 @@
 	</tr>
 </form>
 </table>
-</center></body>
+</center>
+</body>
 </html>
