@@ -10,6 +10,7 @@
 
 <%
 	myDB.insertBoard(myBoard);
+	//response.sendRedirect("List.jsp");
 %>
 <html>
 <head><title>
