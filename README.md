@@ -1,5 +1,5 @@
 # Twosome_Admin
-
+ㅇㅇ
 사용자명 conn /as sysdba
 비밀번호 18141814
 
